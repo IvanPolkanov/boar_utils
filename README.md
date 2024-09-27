@@ -1,3 +1,3 @@
-# ConsoleHelp
+# Boar Utils
 
-This repository contains several useful scripts that I once found or made
+This repository contains utilities and scripts that have helped me remove the mundane tasks from the daily routine of a developer.
